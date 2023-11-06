@@ -20,7 +20,7 @@ The C source code from the STM32CubeMX platform has been generated already.
 
   - Enter page **'Target'**, make sure that the **'ARM Compiler'** selection is **'Use default compiler version 6'** and **'Use MicroLIB'** is selected
 
-  - Enter page **'C/C++ (AC6)'**, make sure that the **'Optimization'** selection is **'-Oz image size'** and **'Link-Time Optimization'** is selected
+  - Enter page **'C/C++ (AC6)'**, make sure that the **'Optimization'** selection is **'-Oz image size'** is selected
 
 - **Rebuild the project**
 
